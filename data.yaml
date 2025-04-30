@@ -1,5 +1,0 @@
-train: C:/Users/Manoj/Downloads/Crowd_Detection_Project/Nandi/images/train
-val: C:/Users/Manoj/Downloads/Crowd_Detection_Project/Nandi/images/train
-
-nc: 1
-names: ['person']
